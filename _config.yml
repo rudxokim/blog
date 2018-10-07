@@ -1,12 +1,12 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: rudxokim90@gmail.com
 baseurl: ""
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
+name: Kyungtae Kim
 title: R X K M
 description: >
   rudxokim blog
